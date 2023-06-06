@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "701360642982",
+    "project_id": "todo-shani",
+    "storage_bucket": "todo-shani.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701360642982:android:eb43ad649ca62947d58d67",
+        "android_client_info": {
+          "package_name": "com.example.firebase_todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701360642982-s2b0pevh34jh7e6q9r12f88d2n3126fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_w4-SOs1hHyq_1YFiFQO5HeVEa-uwsMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701360642982-s2b0pevh34jh7e6q9r12f88d2n3126fh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
